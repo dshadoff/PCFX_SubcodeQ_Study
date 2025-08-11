@@ -1,0 +1,30 @@
+number of sectors = 274921
+ 
+AUDIO Track  1 Index  1  Start = 00:00:00   00:02:00             Sector 0
+AUDIO Track  2 Index  0  Start = 00:02:74   01:07:28             Sector 4906
+DATA  Track  2 Index  1  Start = 00:00:00   01:10:28             Sector 5129
+AUDIO Track  3 Index  0  Start = 00:01:73   14:52:12             Sector 66762
+AUDIO Track  3 Index  1  Start = 00:00:00   14:54:11             Sector 66911
+AUDIO Track  4 Index  1  Start = 00:00:00   15:18:34             Sector 68734
+AUDIO Track  5 Index  1  Start = 00:00:00   16:20:70             Sector 73420
+AUDIO Track  6 Index  1  Start = 00:00:00   17:22:46             Sector 78046
+AUDIO Track  7 Index  1  Start = 00:00:00   18:37:46             Sector 83671
+AUDIO Track  8 Index  1  Start = 00:00:00   23:08:31             Sector 103981
+AUDIO Track  9 Index  1  Start = 00:00:00   27:26:33             Sector 123333
+AUDIO Track 10 Index  1  Start = 00:00:00   31:05:10             Sector 139735
+AUDIO Track 11 Index  1  Start = 00:00:00   31:51:32             Sector 143207
+AUDIO Track 12 Index  1  Start = 00:00:00   32:26:57             Sector 145857
+AUDIO Track 13 Index  1  Start = 00:00:00   35:19:00             Sector 158775
+AUDIO Track 14 Index  1  Start = 00:00:00   39:32:56             Sector 177806
+AUDIO Track 15 Index  1  Start = 00:00:00   43:21:53             Sector 194978
+AUDIO Track 16 Index  1  Start = 00:00:00   43:30:67             Sector 195667
+AUDIO Track 17 Index  1  Start = 00:00:00   43:56:58             Sector 197608
+AUDIO Track 18 Index  1  Start = 00:00:00   44:06:20             Sector 198320
+AUDIO Track 19 Index  1  Start = 00:00:00   45:14:45             Sector 203445
+AUDIO Track 20 Index  1  Start = 00:00:00   49:11:07             Sector 221185
+AUDIO Track 21 Index  1  Start = 00:00:00   52:46:22             Sector 237325
+AUDIO Track 22 Index  1  Start = 00:00:00   57:05:42             Sector 256770
+AUDIO Track 23 Index  1  Start = 00:00:00   57:21:24             Sector 257952
+ 
+Rejected SUBQ records due to bad CRC =      13
+ADR type 2  (catalog number)         =    3617

@@ -1,0 +1,29 @@
+number of sectors = 311822
+ 
+AUDIO Track  1 Index  1  Start = 00:00:00   00:02:00             Sector 0
+DATA  Track  2 Index  0  Start = 00:01:73   00:58:46             Sector 4245
+DATA  Track  2 Index  1  Start = 00:00:00   01:00:45             Sector 4395
+AUDIO Track  3 Index  0  Start = 00:01:73   01:23:29             Sector 6104
+AUDIO Track  3 Index  1  Start = 00:00:00   01:25:28             Sector 6253
+AUDIO Track  4 Index  1  Start = 00:00:00   03:36:33             Sector 16083
+DATA  Track  5 Index  0  Start = 00:01:73   07:54:00             Sector 35399
+DATA  Track  5 Index  1  Start = 00:00:00   07:55:74             Sector 35548
+DATA  Track  6 Index  1  Start = 00:00:00   08:49:19             Sector 39543
+DATA  Track  7 Index  1  Start = 00:00:00   09:06:34             Sector 40833
+DATA  Track  8 Index  1  Start = 00:00:00   22:36:70             Sector 101619
+DATA  Track  9 Index  1  Start = 00:00:00   26:44:06             Sector 120155
+DATA  Track 10 Index  1  Start = 00:00:00   31:44:41             Sector 142690
+DATA  Track 11 Index  1  Start = 00:00:00   34:24:40             Sector 154689
+DATA  Track 12 Index  1  Start = 00:00:00   36:35:60             Sector 164534
+DATA  Track 13 Index  1  Start = 00:00:00   39:36:14             Sector 178063
+DATA  Track 14 Index  1  Start = 00:00:00   43:20:41             Sector 194890
+DATA  Track 15 Index  1  Start = 00:00:00   45:46:07             Sector 205806
+DATA  Track 16 Index  1  Start = 00:00:00   48:07:39             Sector 216413
+DATA  Track 17 Index  1  Start = 00:00:00   52:14:50             Sector 234949
+DATA  Track 18 Index  1  Start = 00:00:00   57:15:10             Sector 257484
+DATA  Track 19 Index  1  Start = 00:00:00   59:57:17             Sector 269641
+DATA  Track 20 Index  1  Start = 00:00:00   62:17:50             Sector 280174
+DATA  Track 21 Index  1  Start = 00:00:00   65:18:04             Sector 293703
+DATA  Track 22 Index  1  Start = 00:00:00   69:02:31             Sector 310530
+ 
+Rejected SUBQ records due to bad CRC =      50

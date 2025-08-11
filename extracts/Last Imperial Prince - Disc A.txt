@@ -1,0 +1,32 @@
+number of sectors = 290164
+ 
+AUDIO Track  1 Index  1  Start = 00:00:00   00:02:00             Sector 0
+AUDIO Track  2 Index  0  Start = 00:02:74   00:57:45             Sector 4173
+DATA  Track  2 Index  1  Start = 00:00:00   01:00:45             Sector 4397
+AUDIO Track  3 Index  0  Start = 00:01:73   02:15:63             Sector 10038
+AUDIO Track  3 Index  1  Start = 00:00:00   02:17:62             Sector 10187
+AUDIO Track  4 Index  1  Start = 00:00:00   05:23:49             Sector 24124
+AUDIO Track  5 Index  1  Start = 00:00:00   09:04:36             Sector 40686
+AUDIO Track  6 Index  1  Start = 00:00:00   12:36:33             Sector 56583
+AUDIO Track  7 Index  1  Start = 00:00:00   14:02:25             Sector 63025
+AUDIO Track  8 Index  1  Start = 00:00:00   15:30:46             Sector 69646
+AUDIO Track  9 Index  1  Start = 00:00:00   16:43:69             Sector 75144
+AUDIO Track 10 Index  1  Start = 00:00:00   18:04:58             Sector 81208
+AUDIO Track 11 Index  1  Start = 00:00:00   19:10:32             Sector 86132
+AUDIO Track 12 Index  1  Start = 00:00:00   22:38:45             Sector 101745
+AUDIO Track 13 Index  1  Start = 00:00:00   24:00:21             Sector 107871
+AUDIO Track 14 Index  1  Start = 00:00:00   27:01:62             Sector 121487
+AUDIO Track 15 Index  1  Start = 00:00:00   29:59:60             Sector 134835
+AUDIO Track 16 Index  1  Start = 00:00:00   33:00:35             Sector 148385
+AUDIO Track 17 Index  1  Start = 00:00:00   36:20:22             Sector 163372
+AUDIO Track 18 Index  1  Start = 00:00:00   39:21:71             Sector 176996
+AUDIO Track 19 Index  1  Start = 00:00:00   48:08:06             Sector 216459
+AUDIO Track 20 Index  1  Start = 00:00:00   53:04:22             Sector 238675
+AUDIO Track 21 Index  1  Start = 00:00:00   53:35:61             Sector 241039
+AUDIO Track 22 Index  1  Start = 00:00:00   53:53:64             Sector 242392
+AUDIO Track 23 Index  0  Start = 00:02:74   54:49:17             Sector 246545
+DATA  Track 23 Index  1  Start = 00:00:00   54:52:17             Sector 246768
+DATA  Track 24 Index  1  Start = 00:00:00   61:41:45             Sector 277471
+ 
+Rejected SUBQ records due to bad CRC =      23
+ADR type 2  (catalog number)         =    3817

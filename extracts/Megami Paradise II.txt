@@ -1,0 +1,20 @@
+number of sectors = 306835
+ 
+AUDIO Track  1 Index  1  Start = 00:00:00   00:02:00             Sector 0
+AUDIO Track  2 Index  0  Start = 00:02:74   00:44:06             Sector 3156
+DATA  Track  2 Index  1  Start = 00:00:00   00:47:06             Sector 3382
+DATA  Track  2 Index  2  Start = 00:00:02   00:47:08             Sector 3384
+DATA  Track  2 Index  3  Start = 00:08:52   00:55:58             Sector 4035
+DATA  Track  2 Index  4  Start = 00:25:57   01:12:63             Sector 5315
+DATA  Track  2 Index  5  Start = 07:32:53   08:19:59             Sector 37336
+DATA  Track  2 Index  6  Start = 10:04:72   10:52:03             Sector 48755
+DATA  Track  2 Index  7  Start = 17:31:08   18:18:14             Sector 82216
+DATA  Track  2 Index  8  Start = 38:07:11   38:54:17             Sector 174919
+DATA  Track  2 Index  9  Start = 38:40:25   39:27:31             Sector 177408
+AUDIO Track  3 Index  0  Start = 00:01:73   65:49:63             Sector 296088
+AUDIO Track  3 Index  1  Start = 00:00:00   65:51:62             Sector 296237
+AUDIO Track  4 Index  0  Start = 00:02:74   68:03:22             Sector 306100
+DATA  Track  4 Index  1  Start = 00:00:00   68:06:22             Sector 306323
+ 
+Rejected SUBQ records due to bad CRC =      26
+ADR type 2  (catalog number)         =    4036

@@ -1,0 +1,31 @@
+number of sectors = 218870
+ 
+AUDIO Track  1 Index  1  Start = 00:00:00   00:02:00             Sector 0
+DATA  Track  2 Index  0  Start = 00:02:74   00:21:11             Sector 1436
+DATA  Track  2 Index  1  Start = 00:00:00   00:24:11             Sector 1662
+DATA  Track  3 Index  1  Start = 00:00:00   40:37:15             Sector 182642
+DATA  Track  4 Index  1  Start = 00:00:00   40:44:27             Sector 183179
+DATA  Track  5 Index  1  Start = 00:00:00   40:50:70             Sector 183672
+DATA  Track  6 Index  1  Start = 00:00:00   41:04:67             Sector 184719
+DATA  Track  7 Index  1  Start = 00:00:00   41:17:46             Sector 185673
+DATA  Track  8 Index  1  Start = 00:00:00   41:35:68             Sector 187045
+DATA  Track  9 Index  1  Start = 00:00:00   41:48:33             Sector 187985
+DATA  Track 10 Index  1  Start = 00:00:00   42:00:31             Sector 188883
+DATA  Track 11 Index  1  Start = 00:00:00   42:10:42             Sector 189644
+DATA  Track 12 Index  1  Start = 00:00:00   43:09:11             Sector 194038
+DATA  Track 13 Index  1  Start = 00:00:00   43:27:05             Sector 195382
+DATA  Track 14 Index  1  Start = 00:00:00   43:44:25             Sector 196677
+DATA  Track 15 Index  1  Start = 00:00:00   44:01:51             Sector 197978
+DATA  Track 16 Index  1  Start = 00:00:00   44:18:66             Sector 199268
+DATA  Track 17 Index  1  Start = 00:00:00   44:36:30             Sector 200582
+DATA  Track 18 Index  1  Start = 00:00:00   44:54:26             Sector 201928
+DATA  Track 19 Index  1  Start = 00:00:00   45:12:10             Sector 203262
+DATA  Track 20 Index  1  Start = 00:00:00   45:30:19             Sector 204621
+DATA  Track 21 Index  1  Start = 00:00:00   45:49:25             Sector 206052
+DATA  Track 22 Index  1  Start = 00:00:00   46:28:68             Sector 209020
+DATA  Track 23 Index  1  Start = 00:00:00   47:08:28             Sector 211980
+DATA  Track 24 Index  1  Start = 00:00:00   47:37:73             Sector 214200
+DATA  Track 25 Index  1  Start = 00:00:00   47:59:62             Sector 215839
+DATA  Track 26 Index  1  Start = 00:00:00   48:18:72             Sector 217274
+ 
+Rejected SUBQ records due to bad CRC =      20
